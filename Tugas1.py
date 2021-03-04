@@ -10,3 +10,7 @@ while True:
         else:
             print("Bilangan ini adalah bilangan Negatif")
         break
+     
+    print("Bilangan yang diinput Invalid, Harus Angka")
+  except Exception as e:
+    print("Bilangan yang diinput Invalid, Harus Angka")
